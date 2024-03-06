@@ -1,1 +1,1 @@
-# Email-detector
+# Image Generator
